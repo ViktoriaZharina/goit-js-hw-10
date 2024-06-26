@@ -85,7 +85,7 @@ button:hover {
 .timer {
   display: flex;
   gap: 24px;
-  width: 346px;
+  width: 345px;
 }
 
 .field {
